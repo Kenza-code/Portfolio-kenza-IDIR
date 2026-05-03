@@ -59,7 +59,7 @@ Développement d’un modèle basé sur CNN + LSTM pour classifier des mouvement
 - Optimisation des performances (-30% temps de calcul)  
 - Automatisation de tâches (jusqu’à -40%)  
 - Analyse et structuration de bases de données
-- Animation des cours auprès des personnes souhaitant maîtriser les outils informatiques
+- Accompagnement pédagogique auprès des personnes souhaitant maîtriser les outils informatiques
 
 ---
 
