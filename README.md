@@ -1,3 +1,36 @@
+<table>
+<tr>
+<td width="30%">
+
+<img src="https://drive.google.com/file/d/1tSz_ZKXAxYFR5QP5DSpcVLbbVUA0dgM2/view?usp=drive_link" width="100%" style="border-radius:10px"/>
+
+### 📫 Contact
+
+📧 idirkenza749@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kidir/)
+
+---
+
+### 🛠️ Compétences
+
+- Python (Pandas, Machine Learning)
+- Data Analysis et Visualization
+- Excel / Data Cleaning
+- Machine Learning / Deep Learning
+- Tableau / Power BI
+
+---
+
+### 🎓 Formations
+
+- Master 2 – Ingénierie en Intelligence Artificielle  
+- Master 1 – Big Data  
+- Master – Systèmes Informatiques  
+
+</td>
+
+<td width="70%">
+
 # Kenza Idir – Data and AI Consultant
 
 Spécialisée en analyse de données et intelligence artificielle, j’accompagne entreprises et établissements de formation dans l’exploitation des données et la montée en compétences sur des outils data et IA.
@@ -12,7 +45,7 @@ Spécialisée en analyse de données et intelligence artificielle, j’accompagn
 - Automatisation de tâches répétitives
 - Exploitation de données avec des approches IA simples
 
---> J’interviens également dans l’accompagnement pédagogique :
+→ J’interviens également dans l’accompagnement pédagogique :
 - Initiation à Python et à l’analyse de données  
 - Sensibilisation aux concepts d’intelligence artificielle  
 - Ateliers pratiques adaptés aux étudiants et profils débutants  
@@ -58,33 +91,8 @@ Développement d’un modèle basé sur CNN + LSTM pour classifier des mouvement
 - Développement de modèles IA (CNN, YOLO)  
 - Optimisation des performances (-30% temps de calcul)  
 - Automatisation de tâches (jusqu’à -40%)  
-- Analyse et structuration de bases de données
-- Accompagnement pédagogique auprès des personnes souhaitant maîtriser les outils informatiques
-
----
-
-## Compétences
-
-- Python (Pandas, Machine Learning)
-- Data Analysis et Visualization
-- Excel / Data Cleaning
-- Machine Learning / Deep Learning
-- Tableau / Power BI
-
----
-
-## Formations
-
-- Master 2 – Ingénierie en Intelligence Artificielle  
-- Master 1 – Big Data  
-- Master – Systèmes Informatiques  
-
----
-
-## Me contacter
-
-📧 Email : idirkenza749@gmail.com  
-🔗 LinkedIn : https://www.linkedin.com/in/kidir/
+- Analyse et structuration de bases de données  
+- Accompagnement pédagogique auprès des personnes souhaitant maîtriser les outils informatiques  
 
 ---
 
@@ -93,3 +101,7 @@ Développement d’un modèle basé sur CNN + LSTM pour classifier des mouvement
 Je propose des solutions data simples, efficaces et adaptées aux besoins réels, ainsi qu’un accompagnement pédagogique pour faciliter la compréhension et l’adoption des outils.
 
 👉 Ouverte aux collaborations, missions IA et data et interventions pédagogiques.
+
+</td>
+</tr>
+</table>
