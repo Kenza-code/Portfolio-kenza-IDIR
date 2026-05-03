@@ -3,13 +3,7 @@
 
 <td width="30%" valign="top">
 
-<div align="center">
 
-<h1 style="color:#1f6feb;">Kenza Idir</h1>
-
-<img src="Photo-Kenza-IDIR.png" width="100%" style="border-radius:10px"/>
-
-</div>
 
 <br>
 
