@@ -1,8 +1,13 @@
 <table>
 <tr>
 <td width="30%">
+<div align="center">
+
+<h3 style="color:#1f6feb;">Kenza Idir</h3>
 
 <img src="Photo-Kenza-IDIR.png" width="100%" style="border-radius:10px"/>
+
+</div>
 
 ### 📫 Contact
 
