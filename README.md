@@ -2,7 +2,7 @@
 <tr>
 <td width="30%">
 
-<img src="https://drive.google.com/file/d/1tSz_ZKXAxYFR5QP5DSpcVLbbVUA0dgM2/view?usp=drive_link" width="100%" style="border-radius:10px"/>
+<img src="https://drive.google.com/file/d/1tSz_ZKXAxYFR5QP5DSpcVLbbVUA0dgM2/view?usp=sharing" width="100%" style="border-radius:10px"/>
 
 ### 📫 Contact
 
