@@ -1,4 +1,4 @@
-# Kenza Idir – Data et AI Consultant
+# Kenza Idir – Data and AI Consultant
 
 Spécialisée en analyse de données et intelligence artificielle, j’accompagne entreprises et établissements de formation dans l’exploitation des données et la montée en compétences sur des outils data et IA.
 
