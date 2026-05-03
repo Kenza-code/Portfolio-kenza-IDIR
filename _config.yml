@@ -1,7 +1,11 @@
 title: "Kenza Idir – Data & AI Consultant"
 logo: "/Photo-Kenza-IDIR.png"
-description: "Consultante en data et intelligence artificielle"
+description: |
+  📧 idirkenza749@gmail.com  
+  🔗 https://www.linkedin.com/in/kidir/
+
 theme: jekyll-theme-minimal
 show_downloads: false
+
 github:
   is_project_page: false
