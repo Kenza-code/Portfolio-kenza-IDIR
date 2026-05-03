@@ -1,113 +1,92 @@
-<table>
-<tr>
+# Kenza Idir – Data and AI Consultant
 
-<td width="30%" valign="top">
+Consultante en analyse de données et intelligence artificielle, j’accompagne entreprises et établissements de formation dans l’exploitation des données et la montée en compétences sur des outils data et IA.
 
+---
 
+## Ce que je propose
 
-<br>
+- Analyse et traitement de données (Python, Excel)
+- Nettoyage et structuration de données
+- Création de tableaux de bord et visualisations
+- Automatisation de tâches répétitives
+- Exploitation de données avec des approches IA simples
 
-<b>Contact</b><br><br>
-📧 idirkenza749@gmail.com<br>
-🔗 <a href="https://www.linkedin.com/in/kidir/">LinkedIn</a>
+### Accompagnement pédagogique
 
-<br><br>
+- Initiation à Python et à l’analyse de données  
+- Sensibilisation aux concepts d’intelligence artificielle  
+- Ateliers pratiques pour étudiants et débutants  
 
-<b>Compétences</b><br><br>
+👉 Objectif : rendre la data et l’IA accessibles, concrètes et directement utilisables.
 
-- Python (Pandas, Machine Learning)<br>
-- Data Analysis et Visualization<br>
-- Excel / Data Cleaning<br>
-- Machine Learning / Deep Learning<br>
-- Tableau / Power BI
+---
 
-<br><br>
+## Projets
 
-<b>Formations</b><br><br>
+### 🔹 Analyse des sentiments – NLP
+Analyse d’avis clients pour extraire des insights exploitables.
 
-- Master 2 – Ingénierie en Intelligence Artificielle<br>
-- Master 1 – Big Data<br>
-- Master – Systèmes Informatiques
+- Objectif : comprendre les retours utilisateurs  
+- Techniques : NLP, preprocessing, classification  
 
-</td>
+🔗 https://github.com/Kenza-code/Analyse-des-sentiments-Amazon  
 
-<td width="70%" valign="top">
+---
 
-<h1>Kenza Idir – Data and AI Consultant</h1>
+### 🔹 Visualisation de données – Maladies cardiaques
+Exploration de données pour identifier les facteurs de risque.
 
-<p>
-Spécialisée en analyse de données et intelligence artificielle, j’accompagne entreprises et établissements de formation dans l’exploitation des données et la montée en compétences sur des outils data et IA.
-</p>
+- Objectif : aider à la prise de décision  
+- Outils : Tableau  
 
-<hr>
+🔗 https://github.com/Kenza-code/MaladiesCardiaques-Tableau  
 
-<h2>Ce que je propose</h2>
+---
 
-<ul>
-<li>Analyse et traitement de données (Python, Excel)</li>
-<li>Nettoyage et structuration de données</li>
-<li>Création de tableaux de bord et visualisations</li>
-<li>Automatisation de tâches répétitives</li>
-<li>Exploitation de données avec des approches IA simples</li>
-</ul>
+### 🔹 Classification d’activités humaines (Deep Learning)
+Modèle CNN + LSTM sur données capteurs.
 
-<p><b>→ J’interviens également dans l’accompagnement pédagogique :</b></p>
+- Objectif : reconnaissance d’activités  
+- Technologies : Deep Learning  
 
-<ul>
-<li>Initiation à Python et à l’analyse de données</li>
-<li>Sensibilisation aux concepts d’intelligence artificielle</li>
-<li>Ateliers pratiques adaptés aux étudiants et profils débutants</li>
-</ul>
+🔗 https://github.com/Kenza-code/Classification-de-l-activit-humaine-Capteurs-multimodaux-Apprentissage-profond  
 
-<p>
-Mon objectif : rendre la data et l’IA accessibles, concrètes et directement utilisables.
-</p>
+---
 
-<hr>
+## Expériences
 
-<h2>Projets</h2>
+- Développement de modèles IA (CNN, YOLO)  
+- Optimisation des performances (-30%)  
+- Automatisation de tâches (-40%)  
+- Structuration de données  
+- Formation et accompagnement  
 
-<h3>🔹 Analyse des sentiments – NLP (Avis clients)</h3>
-<p>Analyse de données textuelles pour classifier les avis clients et en extraire des insights utiles.</p>
-<p>➡️ Objectif : améliorer la compréhension des retours utilisateurs</p>
-<p>➡️ Techniques : NLP, preprocessing, classification</p>
-<p>🔗 <a href="https://github.com/Kenza-code/Analyse-des-sentiments-Amazon">Voir le projet</a></p>
+---
 
-<h3>🔹 Visualisation de données – Maladies cardiaques</h3>
-<p>Exploration et visualisation de données pour identifier les facteurs de risque.</p>
-<p>➡️ Objectif : faciliter la prise de décision</p>
-<p>➡️ Outils : Tableau, Data Visualization</p>
-<p>🔗 <a href="https://github.com/Kenza-code/MaladiesCardiaques-Tableau">Voir le projet</a></p>
+## Compétences
 
-<h3>🔹 Classification d’activités humaines (Deep Learning)</h3>
-<p>Développement d’un modèle basé sur CNN + LSTM.</p>
-<p>➡️ Objectif : reconnaissance d’activités humaines</p>
-<p>➡️ Technologies : Deep Learning, données multimodales</p>
-<p>🔗 <a href="https://github.com/Kenza-code/Classification-de-l-activit-humaine-Capteurs-multimodaux-Apprentissage-profond">Voir le projet</a></p>
+Python • Machine Learning • Data Analysis • Visualisation • Excel • Tableau • Power BI  
 
-<hr>
+---
 
-<h2>Expériences</h2>
+## Formations
 
-<ul>
-<li>Développement de modèles IA (CNN, YOLO)</li>
-<li>Optimisation des performances (-30% temps de calcul)</li>
-<li>Automatisation de tâches (jusqu’à -40%)</li>
-<li>Analyse et structuration de bases de données</li>
-<li>Accompagnement pédagogique</li>
-</ul>
+- Master 2 – Ingénierie en Intelligence Artificielle  
+- Master 1 – Big Data  
+- Master – Systèmes Informatiques  
 
-<hr>
+---
 
-<h2>À propos</h2>
+## Contact
 
-<p>
-Je propose des solutions data simples, efficaces et adaptées aux besoins réels, ainsi qu’un accompagnement pédagogique pour faciliter la compréhension des outils.
-</p>
+📧 idirkenza749@gmail.com  
+🔗 https://www.linkedin.com/in/kidir/  
 
-<p><b>👉 Ouverte aux collaborations, missions IA et data.</b></p>
+---
 
-</td>
+## À propos
 
-</tr>
-</table>
+Je propose des solutions data simples, efficaces et adaptées aux besoins réels, avec une approche orientée impact.
+
+👉 Disponible pour missions data, IA et formation.
