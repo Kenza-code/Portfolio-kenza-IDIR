@@ -13,13 +13,13 @@
 
 <br>
 
-<b>📫 Contact</b><br><br>
+<b>Contact</b><br><br>
 📧 idirkenza749@gmail.com<br>
 🔗 <a href="https://www.linkedin.com/in/kidir/">LinkedIn</a>
 
 <br><br>
 
-<b>🛠️ Compétences</b><br><br>
+<b>Compétences</b><br><br>
 
 - Python (Pandas, Machine Learning)<br>
 - Data Analysis et Visualization<br>
@@ -29,7 +29,7 @@
 
 <br><br>
 
-<b>🎓 Formations</b><br><br>
+<b>Formations</b><br><br>
 
 - Master 2 – Ingénierie en Intelligence Artificielle<br>
 - Master 1 – Big Data<br>
@@ -105,7 +105,7 @@ Mon objectif : rendre la data et l’IA accessibles, concrètes et directement u
 
 <hr>
 
-<h2>💡 À propos</h2>
+<h2>À propos</h2>
 
 <p>
 Je propose des solutions data simples, efficaces et adaptées aux besoins réels, ainsi qu’un accompagnement pédagogique pour faciliter la compréhension des outils.
