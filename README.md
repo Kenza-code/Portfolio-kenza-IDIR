@@ -10,7 +10,7 @@ Je développe des solutions en **Data**, **Intelligence Artificielle** et **Auto
 
 ---
 
-## Ce que je peux apporter
+## Ce que j'apporte
 
 - 🤖 Développement d'agents IA
 - 📊 Analyse et valorisation des données
@@ -27,4 +27,12 @@ Je développe des solutions en **Data**, **Intelligence Artificielle** et **Auto
 
 <hr>
 
- <h2>Ce que je fais et ce que j'apporte</h2> <ul> <li>Analyse et traitement de données (Python, Excel)</li> <li>Nettoyage et structuration de données</li> <li>Création de tableaux de bord et visualisations</li> <li>Automatisation de tâches répétitives</li> <li>Exploitation de données avec des approches IA simples</li> </ul> <p><b>→ J’interviens également dans l’accompagnement pédagogique :</b></p> <ul> <li>Initiation à Python et à l’analyse de données</li> <li>Sensibilisation aux concepts d’intelligence artificielle</li> <li>Ateliers pratiques adaptés aux étudiants et profils débutants</li> </ul> <p> Mon objectif : rendre la data et l’IA accessibles, concrètes et directement utilisables. </p> <hr> <h2>Mes derniers projets réalisés</h2> <h3>🔹 Visualisation de données – Maladies cardiaques</h3> <p>Exploration et visualisation de données pour identifier les facteurs de risque.</p> <p>➡️ Objectif : faciliter la prise de décision</p> <p>➡️ Outils : Tableau, Data Visualization</p> <p>🔗 <a href="https://github.com/Kenza-code/MaladiesCardiaques-Tableau">Voir le projet</a></p> <h3>🔹 Classification d’activités humaines (Deep Learning)</h3> <p>Développement d’un modèle basé sur CNN + LSTM.</p> <p>➡️ Objectif : reconnaissance d’activités humaines</p> <p>➡️ Technologies : Deep Learning, données multimodales</p> <p>🔗 <a href="https://github.com/Kenza-code/Classification-de-l-activit-humaine-Capteurs-multimodaux-Apprentissage-profond">Voir le projet</a></p> <hr> <h2>Expériences</h2> <ul> <li>Analyse et nettoyage de données avec Python</li> <li>Développement de modèles IA (CNN, YOLO)</li> <li>Optimisation des performances (-30% temps de calcul)</li> <li>Automatisation de tâches (jusqu’à -40%)</li> <li>Analyse et structuration de bases de données</li> <li>Accompagnement pédagogique auprès des personnes souhaitant maîtriser les outils informatiques</li> </ul> <hr> <h2>À propos</h2> <p> Je mets en place des solutions data simples, efficaces et adaptées aux besoins réels, ainsi qu’un accompagnement pédagogique pour faciliter la compréhension et l’adoption des outils. </p> <p><b>👉 Ouverte aux collaborations, missions IA, data et Formation</b></p> 
+<h2 id="mes-projets">🚀 Mes projets</h2>
+
+<p>
+Chaque projet répond à un besoin concret rencontré en entreprise ou dans le cadre de mes réalisations personnelles.
+Je privilégie des solutions combinant <b>Data</b>, <b>Intelligence Artificielle</b> et <b>Automatisation</b>.
+</p>
+
+<hr>
+<h3>🔹 Visualisation de données – Maladies cardiaques</h3> <p>Exploration et visualisation de données pour identifier les facteurs de risque.</p> <p>➡️ Objectif : faciliter la prise de décision</p> <p>➡️ Outils : Tableau, Data Visualization</p> <p>🔗 <a href="https://github.com/Kenza-code/MaladiesCardiaques-Tableau">Voir le projet</a></p> <h3>🔹 Classification d’activités humaines (Deep Learning)</h3> <p>Développement d’un modèle basé sur CNN + LSTM.</p> <p>➡️ Objectif : reconnaissance d’activités humaines</p> <p>➡️ Technologies : Deep Learning, données multimodales</p> <p>🔗 <a href="https://github.com/Kenza-code/Classification-de-l-activit-humaine-Capteurs-multimodaux-Apprentissage-profond">Voir le projet</a></p> <hr> <h2>Expériences</h2> <ul> <li>Analyse et nettoyage de données avec Python</li> <li>Développement de modèles IA (CNN, YOLO)</li> <li>Optimisation des performances (-30% temps de calcul)</li> <li>Automatisation de tâches (jusqu’à -40%)</li> <li>Analyse et structuration de bases de données</li> <li>Accompagnement pédagogique auprès des personnes souhaitant maîtriser les outils informatiques</li> </ul> <hr> <h2>À propos</h2> <p> Je mets en place des solutions data simples, efficaces et adaptées aux besoins réels, ainsi qu’un accompagnement pédagogique pour faciliter la compréhension et l’adoption des outils. </p> <p><b>👉 Ouverte aux collaborations, missions IA, data et Formation</b></p> 
