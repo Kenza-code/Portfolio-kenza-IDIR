@@ -1,3 +1,21 @@
-body{
-    background:red;
-}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Arial,Helvetica,sans-serif;background:#f5f7fb;color:#1f2937;line-height:1.7}
+.container{width:min(1100px,92%);margin:auto}
+.hero{background:linear-gradient(135deg,#0f4c81,#1b78c2);color:#fff;padding:70px 0}
+.hero-content{display:flex;justify-content:space-between;align-items:center;gap:40px;flex-wrap:wrap}
+.hero-text{flex:1;min-width:280px}
+.hero-photo img{width:260px;border-radius:20px;box-shadow:0 15px 35px rgba(0,0,0,.25)}
+.badge{display:inline-block;background:#fff;color:#0f4c81;padding:8px 14px;border-radius:999px;font-weight:bold;margin-bottom:20px}
+h1{font-size:52px;margin-bottom:10px}h2{font-size:30px;margin-bottom:20px}.intro{font-size:18px;max-width:650px}
+.buttons{margin-top:30px;display:flex;gap:15px;flex-wrap:wrap}
+.btn{text-decoration:none;padding:14px 22px;border-radius:10px;font-weight:bold;transition:.25s}
+.primary{background:#fff;color:#0f4c81}.primary:hover{transform:translateY(-2px)}
+.secondary{border:2px solid #fff;color:#fff}.secondary:hover{background:#fff;color:#0f4c81}
+.section{padding:70px 0}.light{background:#fff}
+.grid-3{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:25px;margin-top:35px}
+.card{background:#fff;padding:25px;border-radius:18px;box-shadow:0 8px 22px rgba(0,0,0,.08)}
+.featured{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;margin:40px 0 60px}
+.placeholder{min-height:320px;border:3px dashed #9fb7d1;border-radius:18px;display:flex;justify-content:center;align-items:center;background:#eef5fc;color:#3b5b7d;text-align:center;padding:20px}
+.tags{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}.tags span{background:#0f4c81;color:#fff;padding:8px 12px;border-radius:999px;font-size:14px}
+footer{background:#0f4c81;color:#fff;text-align:center;padding:30px 0}
+@media(max-width:850px){.hero-content,.featured{display:grid;grid-template-columns:1fr}.hero-photo{text-align:center}.hero-photo img{width:220px}h1{font-size:38px}h2{font-size:26px}}
