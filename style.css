@@ -318,6 +318,8 @@ color:white;
 
 transition:.3s;
 
+animation:pulse 2s infinite;
+
 }
 
 .video-preview:hover .play-button{
@@ -354,15 +356,17 @@ z-index:9999;
 
 position:relative;
 
-width:min(1000px,92%);
+width:min(1300px,95%);
+
+max-width:1300px;
 
 }
 
 .video-container video{
 
 width:100%;
-
-border-radius:15px;
+max-height:85vh;
+border-radius:18px;
 
 }
 
@@ -379,5 +383,24 @@ font-size:42px;
 color:white;
 
 cursor:pointer;
+
+}
+
+@keyframes pulse{
+
+0%{
+transform:translate(-50%,-50%) scale(1);
+box-shadow:0 0 0 0 rgba(29,95,168,.5);
+}
+
+70%{
+transform:translate(-50%,-50%) scale(1.08);
+box-shadow:0 0 0 18px rgba(29,95,168,0);
+}
+
+100%{
+transform:translate(-50%,-50%) scale(1);
+box-shadow:0 0 0 0 rgba(29,95,168,0);
+}
 
 }
