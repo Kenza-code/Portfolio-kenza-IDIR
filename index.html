@@ -388,5 +388,43 @@ Voir mon GitHub
     </div>
 
 </div>
+
+<script>
+
+function openVideo(){
+
+document.getElementById("videoModal").style.display="flex";
+
+document.getElementById("crmVideo").play();
+
+}
+
+function closeVideo(){
+
+const modal=document.getElementById("videoModal");
+
+const video=document.getElementById("crmVideo");
+
+video.pause();
+
+video.currentTime=0;
+
+modal.style.display="none";
+
+}
+
+window.onclick=function(event){
+
+const modal=document.getElementById("videoModal");
+
+if(event.target===modal){
+
+closeVideo();
+
+}
+
+}
+
+</script>
 </body>
 </html>
