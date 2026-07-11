@@ -437,3 +437,23 @@ box-shadow:0 0 0 0 rgba(29,95,168,0);
     margin-left:auto;
     margin-right:auto;
 }
+
+blockquote{
+
+font-size:24px;
+
+font-style:italic;
+
+color:#154c86;
+
+font-weight:600;
+
+line-height:1.6;
+
+border-left:5px solid #1d5fa8;
+
+padding-left:25px;
+
+margin-bottom:25px;
+
+}
