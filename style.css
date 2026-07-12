@@ -1632,7 +1632,160 @@ transform:translateY(-4px);
 
 }
 
+/*==================================================
+PARTIE 5
+Pourquoi moi • Footer
+==================================================*/
 
+/*==========================
+POURQUOI MOI
+==========================*/
+
+.why-me{
+
+background:white;
+
+border-radius:28px;
+
+padding:70px;
+
+box-shadow:var(--shadow);
+
+text-align:center;
+
+}
+
+.why-grid{
+
+display:grid;
+
+grid-template-columns:repeat(2,1fr);
+
+gap:25px;
+
+margin-top:50px;
+
+}
+
+.why-item{
+
+display:flex;
+
+align-items:center;
+
+gap:18px;
+
+padding:25px;
+
+border-radius:20px;
+
+background:#F8FAFC;
+
+border:1px solid var(--border);
+
+transition:.35s;
+
+}
+
+.why-item:hover{
+
+transform:translateY(-6px);
+
+box-shadow:var(--shadow);
+
+}
+
+.why-icon{
+
+font-size:30px;
+
+color:var(--primary);
+
+}
+
+/*==========================
+FOOTER
+==========================*/
+
+footer{
+
+background:#0F172A;
+
+color:white;
+
+padding:70px 0 25px;
+
+margin-top:120px;
+
+}
+
+.footer-content{
+
+display:flex;
+
+justify-content:space-between;
+
+gap:60px;
+
+flex-wrap:wrap;
+
+}
+
+.footer-content h3{
+
+color:white;
+
+margin-bottom:18px;
+
+}
+
+.footer-content p{
+
+color:#CBD5E1;
+
+}
+
+.footer-links{
+
+display:flex;
+
+flex-direction:column;
+
+gap:15px;
+
+}
+
+.footer-links a{
+
+color:#CBD5E1;
+
+transition:.3s;
+
+}
+
+.footer-links a:hover{
+
+color:white;
+
+padding-left:8px;
+
+}
+
+.footer-bottom{
+
+margin-top:50px;
+
+padding-top:25px;
+
+border-top:1px solid rgba(255,255,255,.08);
+
+text-align:center;
+
+color:#94A3B8;
+
+font-size:15px;
+
+}
 
 
 
