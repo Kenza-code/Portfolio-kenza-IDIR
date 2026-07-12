@@ -2217,3 +2217,11 @@ line-height:1.8;
 color:var(--text-light);
 
 }
+
+.stat-text{
+
+font-size:2.5rem;
+
+line-height:1.15;
+
+}
