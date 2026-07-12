@@ -1419,11 +1419,37 @@ letter-spacing:1px;
 
 }
 
-.process-card .project-icon{
+.process-card{
 
 font-size:48px;
 
 margin-bottom:20px;
+
+}
+
+.project-icon{
+
+font-size:46px;
+
+color:var(--primary);
+
+margin-bottom:22px;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+transition:.35s;
+
+}
+
+.card:hover .project-icon{
+
+transform:scale(1.15);
+
+color:#1D4ED8;
 
 }
 
