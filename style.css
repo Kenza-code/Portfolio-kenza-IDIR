@@ -747,16 +747,23 @@ height:230px;
 
 display:flex;
 
-align-items:center;
-
 justify-content:center;
 
-font-size:70px;
+align-items:center;
 
 background:linear-gradient(135deg,#EEF4FF,#F8FAFC);
 
+font-size:72px;
+
+color:var(--primary);
+
 }
 
+.project-placeholder i{
+
+font-size:72px;
+
+}
 /*==========================
 TAGS
 ==========================*/
@@ -1687,6 +1694,12 @@ font-weight:600;
 color:white;
 
 transition:.35s;
+    
+display:flex;
+    
+align-items:center;
+
+gap:12px;
 
 }
 
