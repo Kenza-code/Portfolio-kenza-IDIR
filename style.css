@@ -1571,7 +1571,45 @@ transform:translateY(-5px);
 
 }
 
+.hero-highlights{
 
+display:grid;
+
+grid-template-columns:repeat(2,1fr);
+
+gap:15px;
+
+margin:35px 0;
+
+}
+
+.hero-highlights div{
+
+background:rgba(255,255,255,.12);
+
+border:1px solid rgba(255,255,255,.18);
+
+backdrop-filter:blur(10px);
+
+padding:14px 18px;
+
+border-radius:14px;
+
+font-weight:600;
+
+color:white;
+
+transition:.30s;
+
+}
+
+.hero-highlights div:hover{
+
+background:rgba(255,255,255,.20);
+
+transform:translateY(-3px);
+
+}
 
 
 
