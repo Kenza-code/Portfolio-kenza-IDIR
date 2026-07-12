@@ -372,7 +372,7 @@ display:grid;
 
 grid-template-columns:1.2fr .8fr;
 
-align-items:center;
+align-items:start;
 
 gap:80px;
 
@@ -406,7 +406,11 @@ display:flex;
 
 justify-content:center;
 
+align-items:flex-start;
+
 position:relative;
+
+padding-top:20px;
 
 }
 
@@ -418,11 +422,15 @@ border-radius:30px;
 
 border:8px solid rgba(255,255,255,.15);
 
-box-shadow:
-
-0 30px 80px rgba(0,0,0,.25);
+box-shadow:0 30px 80px rgba(0,0,0,.25);
 
 transition:.45s;
+
+/* AJOUTEZ CES 2 LIGNES */
+
+margin-top:-40px;
+
+position:relative;
 
 }
 
