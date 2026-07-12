@@ -1429,23 +1429,63 @@ margin-bottom:20px;
 
 .project-icon{
 
-font-size:46px;
-
-color:var(--primary);
-
-margin-bottom:22px;
-
 display:flex;
 
 justify-content:center;
 
 align-items:center;
 
+font-size:46px;
+
+color:var(--primary);
+
+margin-bottom:22px;
+
 transition:.35s;
 
 }
 
+.project-icon i{
+
+font-size:inherit;
+
+line-height:1;
+
+}
+
 .card:hover .project-icon{
+
+transform:scale(1.12);
+
+color:#1D4ED8;
+
+}
+
+.timeline-icon i{
+
+font-size:28px;
+
+color:white;
+
+}
+
+.arch-icon i{
+
+font-size:42px;
+
+color:var(--primary);
+
+}
+
+.contact-icon i{
+
+font-size:32px;
+
+color:var(--primary);
+
+}
+
+.card:hover {
 
 transform:scale(1.15);
 
