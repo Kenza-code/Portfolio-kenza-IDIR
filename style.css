@@ -549,11 +549,13 @@ STATISTIQUES
 
 .stats-section{
 
-margin-top:-70px;
+padding:90px 0;
+
+background:#F8FAFC;
 
 position:relative;
 
-z-index:20;
+z-index:1;
 
 }
 
@@ -1426,13 +1428,7 @@ letter-spacing:1px;
 
 }
 
-.process-card{
 
-font-size:48px;
-
-margin-bottom:20px;
-
-}
 
 .project-icon{
 
@@ -1492,13 +1488,6 @@ color:var(--primary);
 
 }
 
-.card:hover {
-
-transform:scale(1.15);
-
-color:#1D4ED8;
-
-}
 
 .process-card h3{
 
@@ -1876,21 +1865,28 @@ overflow-x:auto;
 
 overflow-y:hidden;
 
-}
+position:relative;
 
+z-index:2;
+
+}
 .tech-items{
 
 display:flex;
 
-flex-wrap:nowrap;
+justify-content:center;
 
-gap:18px;
+align-items:center;
 
-width:max-content;
+flex-wrap:wrap;
+
+gap:16px;
+
+max-width:1200px;
 
 margin:auto;
 
-padding:0 25px;
+padding:0 20px;
 
 }
 
@@ -1902,7 +1898,7 @@ white-space:nowrap;
 
 background:rgba(255,255,255,.08);
 
-padding:12px 20px;
+padding:10px 18px;
 
 border-radius:999px;
 
