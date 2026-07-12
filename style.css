@@ -730,6 +730,29 @@ transition:.35s;
 display:flex;
 
 flex-direction:column;
+padding:35px;
+
+}
+
+.project-card .project-icon{
+
+margin-bottom:25px;
+
+}
+
+.project-card h3{
+
+margin-bottom:20px;
+
+line-height:1.3;
+
+}
+
+.project-card p{
+
+line-height:1.8;
+
+color:var(--text-light);
 
 }
 
